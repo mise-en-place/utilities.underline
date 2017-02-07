@@ -2,6 +2,8 @@
 // Underline Helper Utility
 // ==========================================================================
 
+@import "tool-underline";
+
 /*doc
 ---
 title: Underline
@@ -25,8 +27,6 @@ An underline that sits underneath a piece of text. It’s worth nothing that thi
 </div>
 ```
 */
-
-@import './mixins';
 
 // @TODO rename this to something like fancy-underline? seems too generic...
 .u-underline {

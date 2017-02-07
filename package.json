@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.underline.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.underline": "github:mise-en-place/tools.underline"
+  }
 }
