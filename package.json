@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.underline",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Underline Utility",
   "main": "stylesheets/_utility-underline.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-underline",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
