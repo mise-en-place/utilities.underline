@@ -1,5 +1,5 @@
 {
-  "name": "mep-utilities.underline",
+  "name": "@mise-en-place/utilities.underline",
   "version": "2.0.0",
   "description": "Underline Utility",
   "main": "stylesheets/_utility-underline.scss",
@@ -14,6 +14,6 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.underline": "github:mise-en-place/tools.underline"
+    "@mise-en-place/tools.underline": "~3.0.0"
   }
 }
