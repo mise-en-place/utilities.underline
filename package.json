@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/utilities.underline",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Underline Utility",
   "main": "stylesheets/_utility-underline.scss",
   "keywords": [
